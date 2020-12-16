@@ -48,8 +48,6 @@
 #include "errno.h"
 #include "pthread.h"
 
-#include "dirent.h"
-
 #include "common_types.h"
 #include "osapi.h"
 
